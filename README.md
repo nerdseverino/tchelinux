@@ -1,4 +1,4 @@
-# tchelinux 2019
+# Tchelinux 2019
 
 Requisitos:
 - Docker: 
