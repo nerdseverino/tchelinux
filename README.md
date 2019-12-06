@@ -23,4 +23,6 @@ Obs.: Caso não seja root não esqueça do sudo! :D
 Para verificar os containers rodando:
 **``docker ps``**
 
-**Obs.: Para usar o traefik o mesmo está no momento sem segurança e é indicado para uso interno da rede para uso exerno consulte a documentação do software para uso com SSL.**
+**Obs.: Para usar o traefik o mesmo está no momento sem segurança e é indicado para uso interno da rede, para uso exerno consulte a documentação do software para uso com SSL.**
+
+**https://docs.traefik.io/**
