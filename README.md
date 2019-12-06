@@ -17,8 +17,10 @@ Obs.: Caso não seja root não esqueça do sudo! :D
 
 **Como usar:**
 
-- Use o git clone ou faça download do arquivo docker-compose.yml
+- Use o git clone ou faça download do repositório
 - Entre na pasta onde está o arquivo e execute o **``docker-compose up -d``**
 
 Para verificar os containers rodando:
 **``docker ps``**
+
+**Obs.: Para usar o traefik o mesmo está no momento sem segurança e é indicado para uso interno da rede para uso exerno consulte a documentação do software para uso com SSL.**
