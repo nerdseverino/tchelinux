@@ -1,10 +1,12 @@
 # Tchelinux 2019
 
 Contatos: 
-Linkedin: linkedin.com/in/fabriciomachado
-Telegram: @systemcrashpoa
-Medium: medium.com/@machado.computer
-Blog: nerdseverino.com.br
+
+**Linkedin: https://linkedin.com/in/fabriciomachado**
+
+**Telegram: @systemcrashpoa**
+
+**Blog: https://nerdseverino.com.br**
 
 Requisitos:
 - Docker: 
